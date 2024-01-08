@@ -1,0 +1,13 @@
+{
+  "name": "tiktok-live",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-key-sender": "^1.0.11",
+    "open": "^10.0.3",
+    "robotjs": "^0.6.0",
+    "tiktok-live-connector": "^1.0.5"
+  }
+}
